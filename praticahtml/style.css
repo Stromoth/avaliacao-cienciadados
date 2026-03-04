@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+main {
+    text-align: center;
+    background-color: white;
+    margin: 40px;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+ul {
+    text-align: left;
+}
